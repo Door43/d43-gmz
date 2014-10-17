@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gmz:home|Door43 (gmz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gmz|d43-gmz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gmz/archive/master.zip|d43-gmz.zip]]
+
+**Recent Changes**
+{{changes>ns = gmz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gmz|Ethnologue data]]
+
